@@ -1,0 +1,19 @@
+body {
+  width: 900px;
+  margin: auto;
+}
+
+p {
+  color: violet;
+  text-align: center;
+}
+
+#top {
+  background:gray;
+  text-align:center;
+}
+
+.blue-text {
+  color: blue;
+  font-size: 15px;
+}
